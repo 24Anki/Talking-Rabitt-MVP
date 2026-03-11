@@ -295,20 +295,7 @@ We welcome contributions! Please:
 4. Push to the branch (`git push origin feature/amazing-query`)
 5. Open a Pull Request
 
----
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-## 📬 Contact
-
-- **Website:** [talkingrabbitt.io](https://talkingrabbitt.io)
-- **Email:** [hello@talkingrabbitt.io](mailto:hello@talkingrabbitt.io)
-- **LinkedIn:** [linkedin.com/company/talkingrabbitt](https://linkedin.com/company/talkingrabbitt)
-- **Demo:** [Schedule a 30-min walkthrough](https://cal.com/talkingrabbitt)
 
 ---
 
