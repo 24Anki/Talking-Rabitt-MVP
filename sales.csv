@@ -1,0 +1,17 @@
+region,quarter,product,revenue,units_sold
+North,Q1,Software Suite,12000,45
+South,Q1,Software Suite,15000,55
+East,Q1,Software Suite,10000,40
+West,Q1,Software Suite,18000,65
+North,Q2,Software Suite,14000,50
+South,Q2,Software Suite,16000,60
+East,Q2,Software Suite,11000,42
+West,Q2,Software Suite,19000,70
+North,Q3,Cloud Service,20000,80
+South,Q3,Cloud Service,22000,85
+East,Q3,Cloud Service,17000,65
+West,Q3,Cloud Service,25000,95
+North,Q4,Cloud Service,21000,82
+South,Q4,Cloud Service,23000,88
+East,Q4,Cloud Service,18000,70
+West,Q4,Cloud Service,26000,100
